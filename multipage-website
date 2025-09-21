@@ -1,0 +1,12 @@
+multipage-website/
+├─ index5.html
+├─ about.html
+├─ services.html
+├─ contact.html
+├─ css/
+│  └─ style5.css
+├─ js/
+│  └─ main.js
+├─ images/
+│  └─ (place your images here)
+└─ README.md
